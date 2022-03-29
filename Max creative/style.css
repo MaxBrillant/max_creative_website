@@ -1,0 +1,314 @@
+
+h1,em
+{
+color: #fff;
+text-align: center;
+}
+.revelation,h2
+{
+	color: #fff;
+	font-family:Comic Sans MS,Arial,Georgia;
+}
+ article p ,ol ,div p
+{
+font-size:small;
+background-color:rgb(40, 40, 40);
+color:rgb(255, 255, 255);
+text-shadow:1px 1px 1px rgb(0, 0, 0);
+width:960px;
+margin:auto;
+min-width:50%;
+padding-right: 10%;
+overflow:auto;
+font-family:Century Gothic;
+font-size:23px;
+padding-left: 10%;
+padding-bottom: 20px;
+
+}
+h1,em,h2
+{
+	font-size:x-large;
+	color:rgb(255, 255, 255);
+	opacity:0.9;
+	box-shadow:5px 5px 0px;
+	padding:15px;
+}
+.cartoonmax
+{
+	height:75vh;
+}
+div p .cart
+{
+	display: inline-block;
+}
+.cartoonmax:hover
+{
+
+	border:3px rgb(255, 255, 255) inset;
+	
+}
+.logo
+{
+	height:30vh;
+	float:left;
+	background-color:transparent;
+	margin-top:-20px;
+	margin-left:40px;
+}
+.logo:hover
+{
+	height:31vh;
+}
+strong:hover
+{
+	background-color:#fff;
+	color:red;
+}
+ ul li a
+{
+	
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: #fff;
+	width:150px;
+	border:1px solid transparent;
+	border-radius: 5px;
+	background-color:transparent;
+	text-decoration: none;
+padding: 5px 20px;
+transition: 0.6s ease;
+}
+ul li a:hover
+{
+	background-color: #fff;
+	color: black;
+	font-family: Century Gothic;
+
+}
+ul li.active a
+{
+	background-color: #fff;
+	color: black;
+	font-family: Century Gothic;
+	font-size:23px;
+}
+ul 
+{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+ul li
+{
+	display:inline-block;
+}
+.entete
+{
+	color:white;
+	font-family:Arial;
+	font-size:xx-large;
+	background-color:black;
+}
+a:focus
+{
+	color:rgb(12, 1, 1);
+	background-color: #fff;
+	border:3px white solid;
+	border-radius:5px;
+	font-size:23px;
+	font-family: Century Gothic;
+}
+.clic3
+{
+	border:2px solid rgb(0, 0, 0);
+	color: rgb(40, 40, 40);
+	background-color:transparent;
+	text-decoration: none;
+	font-size: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: Century Gothic;
+	margin-top: 100px;
+}
+.clic3:focus
+{
+	color:rgb(255, 255, 255);
+	background-color: rgb(0, 0, 0);
+	font-family: Century Gothic;
+	font-size: 40px;
+}
+.clic3:hover
+{
+	background-color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
+	font-family: Century Gothic;
+	
+}
+.clic2
+{
+	border:2px solid rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+	background-color:transparent;
+	text-decoration: none;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 100px;
+	font-family: Century Gothic;
+	border-radius: 15px;
+	font-size: 30px;
+}
+.clic2:focus
+{
+	color:rgb(0, 0, 0);
+	background-color: black;
+font-family: Century Gothic;
+	font-size: 34px;
+	border-radius: 15px;
+}
+.clic
+{
+	border:1px solid rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+	background-color:transparent;
+	text-decoration: none;
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: Century Gothic;
+	border-radius: 15px;
+	font-size: 30px;
+	margin-left: 100px;
+}
+.clic:focus
+{color:rgb(0, 0, 0);
+	background-color: black;
+    font-family: Century Gothic;
+	font-size: 30px;
+	border-radius: 15px;
+}
+.clic:hover,.clic2:hover
+{
+	background-color: white;
+	color: rgb(0, 0, 0);
+	font-family: Century Gothic;
+	
+}
+div p a
+{
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+article,section
+{
+background-color: rgb(40, 40, 40);
+}
+section aside
+{
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	color:#fff;
+	text-shadow:1px 1px 1px black;
+	width:2000px;
+	margin:auto;
+	min-width:50%;
+	padding-top: 50px;
+	overflow:auto;	
+}
+footer
+{
+	background-color: white;
+	padding-top: 20px;
+}
+footer  div p
+{
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-size:40px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+	background-color: white;
+  color: black;
+}
+header
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("685208.jpg");
+background-size: cover;
+padding-bottom: 230px;
+}
+aside p
+{
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+padding-top: 300px;
+padding-left: 5%;
+scroll-padding-right: 5%;
+color:#fff;
+	text-shadow:1px 1px 1px black;
+	width:100%;
+	margin:auto;
+	min-width:50%;
+	font-size:35px;
+}
+.max
+{
+	padding-bottom:125px;
+}
+.headerpage2
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("backpage2.jpg");
+background-size: cover;
+padding-bottom: 300px;
+}
+html
+{
+	width:100%;
+}
+p
+{
+	width:100%;
+}
+@media screen and (max-width:959px){
+body{
+	width:100%;
+}
+p,aside p,article p,section,div p,ol {
+	width:100%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+footer{
+	width:100%;
+}
+#logo{
+	width:20%;
+}
+
+
+}
+@media screen and (max-width:640px){
+        body{
+		margin-left:0%;
+	}
+	.logo{
+		margin-left: 30%;
+		margin-right:30%;
+	}
+	html{
+		position:center;
+	}
+	ul li a,a:focus{
+		width:150%;
+		font-size:17px;
+		background-color:black;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-top: 15%;
+	}
+	ul li a:hover,ul li.active a
+	{
+		width:0%;
+		font-size:17px;
+	}
+		}
+		@media screen and (max-width:360px){
+			ul li a{
+			width:0%;
+			font-size:6px;
+			}
+		}
